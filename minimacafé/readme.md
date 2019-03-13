@@ -10,7 +10,7 @@ We used Autodesk Fusion 360 to generate the CNC toolpaths
 
 The design is optimized to reduce use of wood
 
-![minima table 2D](img/minima café_21mm_2D.png)
+![minima table 2D](img/minima_café_21mm_2D.png)
 
 Use a 8mm flat milling bit to cut.
 We included a test sample to help you adjust your CNC toolpath.
