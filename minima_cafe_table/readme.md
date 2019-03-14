@@ -23,7 +23,7 @@ The design is optimized to reduce use of wood
 ![minima table 2D](img/minima_cafe_21mm_2D.png)
 
 
-We used [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) to generate the toolpaths : you can find tutorials about the _Manufacture_ feature of Fusion 360 on [Autodesk website](https://f360ap.autodesk.com/courses#creating-toolpaths-and-programs-cam).
+We used [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview){:target="_blank"} to generate the toolpaths : you can find tutorials about the _Manufacture_ feature of Fusion 360 on [Autodesk website](https://f360ap.autodesk.com/courses#creating-toolpaths-and-programs-cam).
 
 Use a 8mm flat milling bit to cut.
 We included a [test sample](cnc_sample.3dm) to help you adjust your CNC toolpaths.
