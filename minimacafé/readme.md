@@ -26,9 +26,9 @@ The design is optimized to reduce use of wood
 We used [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) to generate the toolpaths : you can find tutorials about the _Manufacture_ feature of Fusion 360 on [Autodesk website](https://f360ap.autodesk.com/courses#creating-toolpaths-and-programs-cam).
 
 Use a 8mm flat milling bit to cut.
-We included a [test sample](minimacafé/cnc_sample.3dm) to help you adjust your CNC toolpaths.
+We included a [test sample](cnc_sample.3dm) to help you adjust your CNC toolpaths.
 
-The [3D model](minimacafé/minima café_21mm.3dm) includes the layout for CNC milling 1250x2500mm plywood panels. You can make 2 tables on one panel.
+The [3D model](minima café_21mm.3dm) includes the layout for CNC milling 1250x2500mm plywood panels. You can make 2 tables on one panel.
 
 ---
 
