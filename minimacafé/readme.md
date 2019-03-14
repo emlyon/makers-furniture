@@ -12,13 +12,6 @@ Minima table project is licensed under the [CC by-nc-sa 4.0](https://creativecom
 
 ![license creative commons by-nc-sa 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
-The design is optimized to reduce use of wood
-
-![minima table 2D](img/minima_café_21mm_2D.png)
-
-Use a 8mm flat milling bit to cut.
-We included a test sample to help you adjust your CNC toolpath.
-
 ---
 
 ## Building instructions
